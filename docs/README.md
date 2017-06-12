@@ -39,7 +39,7 @@
 $ gost push main.go cli.go Makefile
 # 成功后将得到url链接： http://gost.surge.sh/#/7f6fbcc7-8a8b-443e-a88e-39f49c693215
 ```
-将得到的[链接](http://gost.surge.sh/#/7f6fbcc7-8a8b-443e-a88e-39f49c693215)发送给别人，就ok了。
+将得到的[链接](http://gost.surge.sh/#/gost/7f6fbcc7-8a8b-443e-a88e-39f49c693215)发送给别人，就ok了。
 
 ![screenshot](_images/gost-1.png)
 
