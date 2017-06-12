@@ -1,0 +1,14 @@
+{
+  "name": "gost-doc",
+  "version": "0.0.0",
+  "description": "Docs website for gost",
+  "repository": {
+    "url": "gost-c/gost-doc",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo no test!"
+  },
+  "author": "zcong1993 <1005997919@qq.com>",
+  "license": "MIT"
+}
