@@ -1,4 +1,4 @@
-![logo](_media/android-chrome-192x192.png)
+![logo](_media/icon.png)
 
 # gost <small>docs</small>
 
