@@ -4,7 +4,7 @@
 
 ## 是什么
 
-`gost`是一个类似于[gist](https://gist.github.com/)的服务。并且它有自己的命令行客户端工具[gost-cli](https://github.com/gost-c/gost-cli)。
+`gost`是一个可以快速分享代码、文档的服务，类似于[gist](https://gist.github.com/)。并且它有自己的命令行客户端工具[gost-cli](https://github.com/gost-c/gost-cli)。
 
 由于核心后端和cli都是由`go语言`写的， 所以取名`gost`。
 
