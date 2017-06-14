@@ -2,6 +2,20 @@
 
 使用者只需要 `gost-cli` 即可使用。
 
+## 脚本安装（强烈推荐，windows不可用）
+
+- osx
+
+```bash
+$ curl https://raw.githubusercontent.com/gost-c/gost-cli/master/install-osx.sh | bash
+```
+
+- linux
+
+```bash
+$ curl https://raw.githubusercontent.com/gost-c/gost-cli/master/install-linux.sh | bash
+```
+
 ## 下载安装（推荐）
 
 ##### 1. 下载
